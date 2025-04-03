@@ -4,7 +4,7 @@ public class Recitation3 {
     public static void main(String[] argv)
     {
         Scanner scan = new Scanner(System.in);
-
+//
         System.out.println("Enter x:");
         double x = scan.nextDouble();
         System.out.println("Enter y:");

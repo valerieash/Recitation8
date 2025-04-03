@@ -107,7 +107,7 @@ public class Circle {
      * @param aCircle a circle.
      */
     public boolean intersects(Circle aCircle) {
-        //TODO: replace this line and the line below with your code
+        //TODO: replce this line and the line below with your code
         //to know if it intersects, the center of what radius see if it is smaller or the same size
         double distancebetween = location.distanceTo(aCircle.getLocation());
         return distancebetween <= (this.radius + aCircle.getRadius());

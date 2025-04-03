@@ -8,7 +8,7 @@ import java.util.Objects;
  */
 public class Point
 {
-    // fields
+    // fieldss
     private double x;
     private double y;
 
